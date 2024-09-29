@@ -10,8 +10,12 @@ This code offers a Graphic User Interface for Coca Cola Workers, it provides a l
 The code is based on three main sections:
 
 1. Bienvenida: This class offers a login interface.
-2. Principal: This class presents the GUI for workers
-3. Terminos: This class contains the Terms & Conditions
+![login](https://github.com/AlanAmaro13/CocaCola_System_JAVA/blob/main/images/login.png)
+
+3. Principal: This class presents the GUI for workers
+![main](https://github.com/AlanAmaro13/CocaCola_System_JAVA/blob/main/images/main.png)
+5. Terminos: This class contains the Terms & Conditions
+![terms](https://github.com/AlanAmaro13/CocaCola_System_JAVA/blob/main/images/terms.png)
 
 These sections are shown in the code version (.java) and the compilated version (.class) 
 
