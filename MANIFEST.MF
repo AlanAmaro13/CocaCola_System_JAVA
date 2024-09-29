@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Alan Amaro
+Main-Class: bienvenida
+X-COMMENT: Chulada de proyecto, no?
