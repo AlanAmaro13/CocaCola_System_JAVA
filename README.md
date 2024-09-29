@@ -1,4 +1,4 @@
-# Coca Cola System!
+# Coca Cola GUI System!
 
 Hi there!
 In this repository I present a short code that I made a long time ago while I was learning Java. This project consist in a GUI for Coca Cola Workerks, it contains a login and main interface.
